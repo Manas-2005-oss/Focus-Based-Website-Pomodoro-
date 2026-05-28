@@ -2,10 +2,17 @@
 
 > A gamified productivity and habit tracking web application that combines the Pomodoro Technique with habit streaks, daily goals, race-style motivation, and analytics to help users stay consistent and productive.
 
-(./Outputs/Screenshot 2025-06-05 105830.png)
+![Pomodoro Habit Race Banner](./screenshots/banner.png)
 
 ---
 
+# 🚀 Live Demo
+
+🌐 **Live Website:** `https://your-live-link.com`
+
+📂 **Frontend Repository:** `https://github.com/yourusername/pomodoro-habit-race`
+
+---
 
 # 📌 Table of Contents
 
@@ -172,31 +179,26 @@ By integrating habit tracking with Pomodoro productivity cycles, the app encoura
 
 ## 🏠 Home Page
 
-Outputs(./screenshots/home.png)
+![Home Page](./Outputs/banner.png)
 
 ---
 
 ## ⏳ Pomodoro Timer
 
-![Pomodoro Timer](./Outputs/Screenshot 2025-06-05 105830.png)
+![Pomodoro Timer](./Outputs/tasks.png)
 
 ---
 
 ## 📊 Analytics Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Outputs/dashboard.png)
 
 ---
 
 ## 📅 Habit Tracker
 
-![Habit Tracker](./screenshots/habits.png)
+![Habit Tracker](./Outputs/assistant.png)
 
----
-
-## 📱 Mobile Responsive View
-
-![Mobile View](./screenshots/mobile.png)
 
 ---
 
@@ -503,6 +505,7 @@ git checkout -b feature-name
 ```
 
 ---
+
 
 # 👨‍💻 Author
 
