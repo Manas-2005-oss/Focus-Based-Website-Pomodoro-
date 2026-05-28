@@ -2,7 +2,7 @@
 
 > A gamified productivity and habit tracking web application that combines the Pomodoro Technique with habit streaks, daily goals, race-style motivation, and analytics to help users stay consistent and productive.
 
-![Pomodoro Habit Race Banner](./Outputs/Screenshot 2025-06-05 105830.png)
+(./Outputs/Screenshot 2025-06-05 105830.png)
 
 ---
 
